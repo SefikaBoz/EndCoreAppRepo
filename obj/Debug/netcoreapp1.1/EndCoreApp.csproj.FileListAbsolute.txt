@@ -1,0 +1,8 @@
+C:\Users\Sefika\Desktop\EndCoreApp\bin\Debug\netcoreapp1.1\EndCoreApp.deps.json
+C:\Users\Sefika\Desktop\EndCoreApp\bin\Debug\netcoreapp1.1\EndCoreApp.runtimeconfig.json
+C:\Users\Sefika\Desktop\EndCoreApp\bin\Debug\netcoreapp1.1\EndCoreApp.runtimeconfig.dev.json
+C:\Users\Sefika\Desktop\EndCoreApp\bin\Debug\netcoreapp1.1\EndCoreApp.dll
+C:\Users\Sefika\Desktop\EndCoreApp\bin\Debug\netcoreapp1.1\EndCoreApp.pdb
+C:\Users\Sefika\Desktop\EndCoreApp\obj\Debug\netcoreapp1.1\EndCoreApp.AssemblyInfo.cs
+C:\Users\Sefika\Desktop\EndCoreApp\obj\Debug\netcoreapp1.1\EndCoreApp.dll
+C:\Users\Sefika\Desktop\EndCoreApp\obj\Debug\netcoreapp1.1\EndCoreApp.pdb
